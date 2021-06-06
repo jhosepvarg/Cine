@@ -1,0 +1,7 @@
+* {
+    font-family: "Roboto Condensed", sans-serif !important;
+}
+
+html.has-navbar-fixed-top, body.has-navbar-fixed-top {
+    padding-top: 6.25rem !important;
+}
